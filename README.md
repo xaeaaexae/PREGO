@@ -1,7 +1,7 @@
 # PREGO
 
 ## 📘 Description
-This project aims to design a font or a logo in SVG format, and then animate it creatively.
+This project aims to design a font or a logo in SVG format, and then animate it creatively. [Check out the result here](https://xaeaaexae.github.io/PREGO/)
 
 ---
 

@@ -27,3 +27,5 @@ yarn-error.log*
 
 # Thumbnails
 ._*
+
+dist/
